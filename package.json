@@ -1,5 +1,5 @@
 {
-  "name": "mockgoose",
+  "name": "mockgoose-ava",
   "description": "Mockgoose is an in memory database mock to allow for testing of applications that rely on Mongoose.",
   "version": "6.0.3",
   "author": {
